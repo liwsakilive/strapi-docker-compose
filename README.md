@@ -10,3 +10,7 @@ mv env .env
 ```
 docker-compose up -d
 ```
+3. open browser go to url localhost or ip port 1337 
+```
+localhost:1337
+```
