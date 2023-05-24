@@ -1,6 +1,6 @@
 # strapi-docker-compose
 
-How to run
+How to run strapi with docker-compose
 1. chnage name env to .env for env setup
 ```
 cd strapi-docker-compose
